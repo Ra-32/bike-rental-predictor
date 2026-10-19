@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2
+Hist Gradient Boosting,66.286,86.634,0.8494
+Extra Trees,62.235,87.483,0.8464
+Random Forest,98.15,138.973,0.6124
+Linear Regression,110.541,141.52,0.5981
+Dummy baseline,194.135,253.97,-0.2943
