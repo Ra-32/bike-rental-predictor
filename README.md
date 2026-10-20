@@ -15,6 +15,7 @@ A beginner-friendly but professional end-to-end machine learning project. It pre
 If the automatic download fails, download the ZIP from the official page, extract `hour.csv`, and place it in `data/raw/hour.csv`.
 
 ## What the user enters
+:-https://bike-rental-predictor-ff47ehzuvcs9dmnxcvwjwu.streamlit.app/
 
 Season, year indicator, month, hour, holiday, weekday, working day, weather category, temperature (°C), feels-like temperature (°C), humidity (%) and wind speed (km/h). The application converts human-readable measurements into the normalized representation used in the original dataset.
 
