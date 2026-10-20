@@ -7,7 +7,7 @@ import streamlit as st
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://bike-rental-predictor-pbdj.onrender.com"
 st.set_page_config(page_title="Smart Bike Demand", page_icon="🚲", layout="wide")
 st.title("🚲 Smart Bike Rental Demand Predictor")
 st.caption("End-to-end machine learning • Regression • Rule-based NLP • FastAPI + Streamlit")
